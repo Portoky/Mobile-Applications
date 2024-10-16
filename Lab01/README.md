@@ -1,9 +1,9 @@
-The main entity of this app is a trip/adventure, It has the following fields:
-Name string
-Coordinates double, double	
-Difficulty 1-5
-Panorama 1-5
-Review string
+The main entity of this app is a trip/adventure, It has the following fields: \n
+Name (string) \n
+Coordinates (double, double)	\n
+Difficulty (1-5)\n
+Panorama (1-5) \n
+Review (string)\n
 
 This application initially will have no social media function
 When starting the app you have to press the get started button. You are redirected to the list page which is the main page, here you can see all the trips/adventures the user have been so far. 
