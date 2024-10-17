@@ -6,7 +6,7 @@ Panorama 1-5
 Review string
 
 This application initially will have no social media function
-When starting the app you have to press the get started button. You are redirected to the list page which is the main page, here you can see all the trips/adventures the user have been so far. 
+When starting the app you have to press the get started button. You are redirected to the list page which is the main page, here you can see all the trips/adventures the user have been so far. You have infinite scroll for the list and this is how you navigate between them. 
 The edit and delete buttons are disabled if nothing is selected.
 When 1 entity is selected the edit is enabled and the delete is enabled. If more entities are selected the edit is disabled.
 Pressing add will redirect to the add page, you have to fill out the form press Add and on successful addition it will redirect you to the list main page, show errors otherwise. All the fields are required except the description
